@@ -1,0 +1,2101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="zh-tw" http-equiv="Content-Language"/>
+<title>博客來-中文書&gt;分類總覽頁</title>
+<meta content="中文書,分類總覽頁" name="keywords"/>
+<meta content="中文書 分類總覽頁" name="description"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="博客來" property="og:site_name">
+<meta content="product" property="og:type">
+<meta content="210743125726405" property="fb:app_id">
+<meta content="中文書&gt;分類總覽頁" property="og:title">
+<meta content="348" property="og:image:width"/>
+<meta content="348" property="og:image:height"/>
+<meta content="http://www.books.com.tw/web/sys_sublistb/books" property="og:url">
+<meta content="中文書 分類總覽頁" property="og:description">
+<link href="https://jci.book.com.tw/css/books/product/overlay-n.css" rel="stylesheet"/>
+<link href="https://jci.book.com.tw/css/css.css" rel="stylesheet"/>
+<link href="https://jci.book.com.tw/css/iconfont/icon_01.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.books.com.tw/web/sys_sublistb/books" rel="canonical"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TBZGS7');</script>
+<script language="JavaScript" src="https://jci.book.com.tw/jss/jquery/jquery-1.6.4.min.js "></script>
+<script language="JavaScript" src="/jss/jquery/plugin/jquery.timers-1.2.js?v=593f57ff"></script>
+<script language="JavaScript" src="https://jci.book.com.tw/jss/header/header-www.js" type="text/javascript"></script>
+<script language="JavaScript" src="https://jci.book.com.tw/jss/header/aeil.js" type="text/javascript"></script>
+<script language="JavaScript" src="/jss/web/adv_log.js?v=5aefea69" type="text/javascript"></script>
+<script language="JavaScript" src="https://jci.book.com.tw/jss/books/jqueryplugin/lazyload/1.9.3/jquery.lazyload.min.js" type="text/javascript"></script>
+<script language="JavaScript" src="/jss/web/uselazyload.js?v=593f57ff" type="text/javascript"></script>
+<script language="JavaScript" src="https://jci.book.com.tw/jss/books/head.min.js" type="text/javascript"></script>
+</meta></meta></meta></meta></meta></meta></head>
+<body class="color_books type02">
+<script src="https://www.books.com.tw/webs/header_js/pmenu/html/menu.js?v=297343fafc6fa2ec3171439cfe799869" type="text/javascript"></script>
+<link href="https://jci.book.com.tw/css/iconfont/icon_01.css" media="all" rel="stylesheet" type="text/css"/>
+<div class="overlay" id="div_language_overlay" onclick="hide_lang_panel();" style="display:none"></div>
+<div class="pop_win change_language_win" id="div_language_win" style="display:none">
+<h3>選擇語言<a class="btn-close" href="javascript:;" onclick="hide_lang_panel();"></a></h3>
+<div>
+<ul>
+<li id="header_li_change_lang_en"><a class="btn" href="javascript:;" onclick="change_lang('en');">English</a></li>
+<li id="header_li_change_lang_zh_TW"><a class="btn" href="javascript:;" onclick="change_lang('zh_TW');">繁體中文</a></li>
+<li id="header_li_change_lang_zh_CN"><a class="btn" href="javascript:;" onclick="change_lang('zh_CN');">简体中文</a></li>
+</ul>
+</div></div><div class="container_24 type04_header clearfix" data-attr="books" id="header_id">
+<div class="grid_24 clearfix">
+<div class="header_box1 clearfix">
+<h2 class="hide">:::相關網站</h2>
+<div class="website_nav">
+<ul><li><a href="https://www.books.com.tw/?loc=tw_website_001">博客來</a></li>
+<li><a href="https://tickets.books.com.tw/index/?loc=tw_website_003">售票網</a></li>
+<li><a href="https://group.books.com.tw/?loc=tw_website_004">企業採購</a></li>
+<li><a href="https://www.books.com.tw/benefit/?loc=tw_website_005">福利平台</a></li>
+<li><a href="https://www.books.com.tw/web/ovs/?loc=tw_website_006">海外專館</a></li></ul>
+</div><div class="service_nav clearfix">
+<h2 class="hide"><a accesskey="U" href="#accesskey_service_nav" id="accesskey_service_nav" title="上方導覽區塊:會員服務|快速功能">:::會員服務|快速功能</a></h2>
+<ul>
+<li class="shopping"><a href="https://db.books.com.tw/shopping/cart_list.php?loc=tw_customer_001"><img alt="直接結帳" class="cart" src="/csss/images/shoppingcar.gif" title="直接結帳"/><strong id="shopping_cart_num">0</strong><span class="more" id="shopping_cart_more" style="display:none"></span>結帳</a></li>
+<li class="logout li_label_member_login" style="display:none;"><strong id="member_class"></strong> 您好 ( <a href="https://cart.books.com.tw/member/logout?loc=customer_004">登出</a> )</li>
+<li class="logout li_label_member_logout"><a href="javascript:void(0);" onclick="location.href='https://cart.books.com.tw/member/login?loc=customer_003&amp;url=' + encodeURIComponent(window.location.href);">    登入    </a></li>
+<li class="join li_label_member_logout"><a href="javascript:void(0);" onclick="location.href='https://cart.books.com.tw/member/join_step1/?loc=customer_002&amp;url=' + encodeURIComponent(window.location.href);">加入會員</a></li>
+<li class="pop_tip_box">
+<a href="https://myaccount.books.com.tw/myaccount/myaccount/index/?loc=tw_customer_004">購物金<span id="shopping_cash_show"></span></a>
+<div class="pop_tip" style="display:none">
+<b class="arrow"></b>
+<ul><li class="first">購物金 <a href="https://myaccount.books.com.tw/myaccount/myaccount/getShoppingmoneylist?loc=tw_customer_005"><strong id="shopping_cash">0</strong></a></li>
+<li>儲值金 <a href="https://myaccount.books.com.tw/myaccount/myaccount/getFreemoneylist?loc=tw_customer_006"><strong id="benefit_cash">0</strong></a></li>
+<li>E-Coupon <a href="https://myaccount.books.com.tw/myaccount/myaccount/getPercentcouponlist?loc=tw_customer_coupon"><strong id="my_ecoupon_count">0</strong></a> 張</li>
+<li>單品折價券 <a href="https://myaccount.books.com.tw/myaccount/myaccount/getPercentIcouponlist?loc=tw_customer_icoupon"><strong id="my_icoupon_count">0</strong></a> 張</li></ul>
+</div></li>
+<li><a href="https://myaccount.books.com.tw/myaccount/myaccount/index/?loc=tw_customer_007">會員專區</a></li>
+<li><a href="https://viewer-ebook.books.com.tw/viewer/index.html?readlist=all&amp;MemberLogout=true">電子書櫃</a></li>
+<li><a href="https://www.books.com.tw/web/csservice?loc=tw_customer_chat">線上客服</a></li>
+<li onclick="show_lang_panel();"><i class="icon-globe"></i><a class="modalBtn" href="javascript:;" id="header_a_lang_title">繁體</a></li>
+</ul>
+</div></div>
+<div class="header_box_pop">
+<div class="flash_banner_pop" style="background-image:url(https://im2.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/marketing/2021/11/ad/readingtimes-950x655.jpg&amp;v=619316c6&amp;w=&amp;h=); height:655px; display:none;">
+<a class="activity" href="https://www.books.com.tw/adv_log/go/?adv=1524&amp;act=321862&amp;loc=tbanner_001" title=""><span class="hide"></span></a>
+<a class="close" href="javascript:;" id="close_top_banner" title="關閉廣告"><span class="hide">關閉廣告</span></a>
+</div><div class="flash_banner" style="background-image:url(https://im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/marketing/2021/11/ad/readingtimes-950x70.jpg&amp;v=619316c9&amp;w=&amp;h=)">
+<a class="activity" href="https://www.books.com.tw/adv_log/go/?adv=1524&amp;act=321862&amp;loc=tbanner_001" title=""><span class="hide"></span></a>
+<a class="open" href="javascript:;" id="open_top_banner" title="展開廣告"><span class="hide">展開廣告</span></a>
+<input data-okey="321862" data-preview="" data-sec="8" data-skey="1524" id="tbanner_data" type="hidden"/>
+</div></div><div class="header_box2 clearfix" style="background-image:url(https://im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/fashion/a/2021/11/1118clothes_header.jpg&amp;v=61937612&amp;w=&amp;h=)">
+<div class="books_logo"><a href="https://www.books.com.tw?loc=tw_logo_001" title="回博客來首頁"><span>回博客來首頁</span></a></div>
+<div class="bg_banner"><a href="https://www.books.com.tw/exep/activity/promote/2007_promote/promote_activity.php?id=PKG0163848&amp;loc=banner_001" target="_new" title=""><span class="hide"></span></a></div>
+<ul class="key_banner">
+<li><a href="https://activity.books.com.tw/crosscat/show/A00000012380?loc=dbanner_001"><img src="https://im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/lifestyle/K/2021/11/1118elecom_190.jpg&amp;v=61937b38&amp;w=&amp;h="/></a></li>
+<li><a href="https://www.books.com.tw/activity/lifestyle/B/2021/11/bts/?loc=dbanner_002"><img src="https://im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/lifestyle/B/2021/11/bts_190.jpg&amp;v=618a5079&amp;w=&amp;h="/></a></li>
+</ul>
+</div><div class="header_box3 clearfix">
+<p class="service_msg"><span class="icon">客服公告：</span>配合政策各項服務調整說明<span class="more"><a href="https://www.books.com.tw/G/QA/file/index0525.html?loc=qainfo_001">詳情</a></span></p>
+<ul class="poin_banner">
+<li><a href="https://www.books.com.tw/products/N012530686/?loc=activity_home_001"><img src="https://im2.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/marketing/2021/08/gbt/getImage_07_1.jpg&amp;v=612dea2e&amp;w=&amp;h="/></a></li>
+<li><a href="https://myaccount.books.com.tw/myaccount/myaccount/memberReadMileage?loc=activity_home_002"><img alt="每日簽到" src="https://im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/marketing/2021/09/gbt/getImage_08.jpg&amp;v=61385b2f&amp;w=&amp;h="/></a></li>
+<li><a href="https://www.books.com.tw/web/giftcard/?loc=activity_GC_001"><img src="https://im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/marketing/2021/08/gbt/getImage_04.jpg&amp;v=610b475b&amp;w=&amp;h="/></a></li>
+<li><a href="https://activity.books.com.tw/books66/?loc=activity_BK_001"><img alt="今日66折" src="https://im2.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/marketing/2021/08/gbt/getImage_05.jpg&amp;v=610b475b&amp;w=&amp;h="/></a></li>
+<li><a href="https://www.books.com.tw/happybuy?loc=activity_NP_001"><img alt="天天BUY" src="https://im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/marketing/2021/08/gbt/getImage_06.jpg&amp;v=610b475b&amp;w=&amp;h="/></a></li>
+</ul>
+</div><div class="header_box4 clearfix">
+<div class="grid_4 alpha">
+<div class="books_nav" id="books_nav">
+<div><strong class="tip">移動滑鼠展開全站分類</strong></div>
+<a accesskey="L" href="#accesskey_books_nav" id="accesskey_books_nav" title="全站分類選單/旗艦店選單">:::全站分類</a>
+<ul class="tabs">
+<li class="first" id="home"><span></span><div><a href="javascript:;" onclick="Hmenu('home');">全站分類</a><b></b></div></li>
+<li class="last" id="flagship"><span></span><div><a href="javascript:;" onclick="Hmenu('flagship');">旗艦店</a><b></b></div></li>
+</ul>
+<div class="nav_box" id="home_menu_list" style="display:none">
+<ul class="menu style01">
+<li><h3><a href="https://www.books.com.tw/web/ebook/?loc=menu_0_001">電子書</a>
+‧<a href="https://www.books.com.tw/web/audioandvideo/?loc=menu_0_002">有聲書</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/books/?loc=menu_1_001">中文書</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/china?loc=menu_2_001">簡體書</a>
+‧<a href="https://www.books.com.tw/web/fbooks?loc=menu_2_002">外文書</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/magazine?loc=menu_3_001">雜誌</a>
+‧<a href="https://www.books.com.tw/web/mook?loc=menu_3_002">MOOK</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/cd?loc=menu_4_001">CD</a>
+‧<a href="https://www.books.com.tw/web/dvd?loc=menu_4_002">DVD</a>
+‧<a href="https://tickets.books.com.tw/index/?loc=menu_4_003">售票</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/cosmetic?loc=menu_5_001">保養</a>
+‧<a href="https://www.books.com.tw/web/cosmetic_topm_11?loc=menu_5_002">洗沐</a>
+‧<a href="https://www.books.com.tw/web/cosmetic_topm_05?loc=menu_5_003">醫美</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/clean?loc=menu_6_001">日用品</a>
+‧<a href="https://www.books.com.tw/web/mammybaby?loc=menu_6_002">婦幼玩具</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/fashion/?loc=menu_7_001">服飾</a>
+‧<a href="https://www.books.com.tw/web/fashion_topm_21?loc=menu_7_002">機能服</a>
+‧<a href="https://www.books.com.tw/web/fashion_topm_15?loc=menu_7_003">內衣</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/shoes_topm_01?loc=menu_8_001">鞋</a>
+‧<a href="https://www.books.com.tw/web/shoes?loc=menu_8_002">包包飾品</a>
+‧<a href="https://www.books.com.tw/web/shoes_topm_05?loc=menu_8_003">精品</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/food?loc=menu_9_001">美食</a>
+‧<a href="https://www.books.com.tw/web/food_topm_16?loc=menu_9_002">飲品</a>
+‧<a href="https://www.books.com.tw/web/food_topm_10?loc=menu_9_003">食材</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/health?loc=menu_10_001">保健</a>
+‧<a href="https://www.books.com.tw/web/health_topm_08?loc=menu_10_002">纖體</a>
+‧<a href="https://www.books.com.tw/web/health_topm_15?loc=menu_10_003">醫材</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/stationery?loc=menu_11_001">文具</a>
+‧<a href="https://www.books.com.tw/web/stationery_topm_15?loc=menu_11_002">動漫</a>
+‧<a href="https://www.books.com.tw/web/sys_midm/stationery/1509?loc=menu_11_003">公仔</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/kitchen?loc=menu_12_001">餐廚生活</a>
+‧<a href="https://www.books.com.tw/web/design?loc=menu_12_002">家居雜貨</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/outdoors?loc=menu_13_001">休閒生活</a>
+‧<a href="https://www.books.com.tw/web/petlife?loc=menu_13_002">寵物生活</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/3C?loc=menu_14_001">3C</a>
+‧<a href="https://www.books.com.tw/web/fm?loc=menu_14_002">家電</a>
+</h3></li><li><h3><a href="https://www.books.com.tw/web/icash?loc=act_menu_0_001">票證</a>‧                  <a href="https://www.books.com.tw/web/print?loc=act_menu_0_002">沖印</a>‧                  <a href="https://tickets.books.com.tw/index/?loc=act_menu_0_003">售票</a></h3>
+</li></ul>
+<ul class="menu style03">
+<li><h3><a href="https://www.books.com.tw/web/sys_categoryIndex">看全部商品分類</a></h3></li>
+</ul>
+</div><div class="nav_box" id="flagship_menu_list" style="display:none">
+<ul class="menu style01">
+<li><h3><span>依品類</span>
+</h3></li><li><h3><span>依字母</span>
+</h3></li><li><h3><span>依注音</span>
+</h3></li></ul>
+</div></div></div><div class="grid_10">
+<div class="search clearfix">
+<h2 class="hide"><a href="#accesskey_search" id="accesskey_search" title="網站搜尋">:::網站搜尋</a></h2>
+<form action="https://search.books.com.tw/search/query/" id="search" method="GET" name="search" onsubmit="if(typeof go_search == 'function'){go_search();return false;}">
+<input data-fkey="" id="search_fclick" name="fclick" type="hidden" value="0"/>
+<input accesskey="S" autocomplete="off" class="search_key" id="key" message="請輸入關鍵字" name="key" type="search" value=""/>
+<div class="search_set" id="search_box">
+<div class="top_search_tip">
+<a href="javascript:;">
+<span id="search_name">全部</span>
+<span class="icon" title="展開">展開</span></a>
+<input id="cat" name="cat" type="hidden" value="all"/>
+</div><ul class="search_popup">
+<li><a cat="all" href="javascript:;" id="default_search_key">全部</a></li>
+<li><a cat="BKA" href="javascript:;">圖書</a></li>
+<li><a cat="EBA" href="javascript:;">電子書</a></li>
+<li><a cat="MDB" href="javascript:;">有聲書</a></li>
+<li><a cat="AVA" href="javascript:;">影音</a></li>
+<li><a cat="DPA" href="javascript:;">百貨</a></li>
+<li><a cat="MGA" href="javascript:;">雜誌</a></li>
+<li><a cat="TKA" href="javascript:;">售票</a></li>
+<li><a cat="OVS" href="javascript:;">海外專館</a></li>
+<li><a cat="GFC" href="javascript:;">禮物卡</a></li>
+</ul>
+</div><button title="搜尋" type="submit"><span class="icon">搜尋</span></button>
+</form>
+<ul id="search_words_ul" style="display:none;"></ul>
+</div></div><div class="grid_10 omega">
+<div class="hot_key_words clearfix">
+<h2>熱門關鍵字</h2>
+<ul><li><a href="https://www.books.com.tw/products/0010907862?loc=hot_001">梅艷芳ANITA</a></li>
+<li><a href="https://www.books.com.tw/products/0010906210?loc=hot_002">轉念的力量</a></li>
+<li><a href="https://activity.books.com.tw/crosscat/show/A00000044698?loc=hot_003">王崇禮</a></li>
+<li><a href="https://www.books.com.tw/products/0010907864?loc=hot_004">湯鎮瑋</a></li>
+</ul>
+</div></div></div><div class="header_box5 clearfix">
+<div class="grid_4 alpha">
+<div class="title"><h3><a href="https://www.books.com.tw/web/books/?loc=subject_main_001">中文書</a></h3></div>
+</div><div class="grid_20 omega">
+<ul class="sub_list"><li><a href="https://www.books.com.tw/web/books_newbook/?loc=subject_001">新書</a></li>
+<li><a href="https://www.books.com.tw/web/sys_prebooks/books/?loc=subject_002">預購</a></li>
+<li><a href="https://www.books.com.tw/web/sys_tdrntb/books/?loc=subject_003">排行榜</a></li>
+<li><a href="https://www.books.com.tw/web/sys_selbooks/books/?loc=subject_004">選書</a></li>
+<li><a href="https://www.books.com.tw/web/sys_compub/books/?loc=subject_005">即將出版</a></li>
+<li><a href="https://www.books.com.tw/web/books_specbook/?loc=subject_006">特價書</a></li>
+<li><a href="https://www.books.com.tw/web/store_hkbooks/?loc=subject_007">香港出版</a></li>
+<li><a href="https://www.books.com.tw/web/books_review/?loc=subject_008">讀者書評</a></li>
+<li><a href="https://www.books.com.tw/web/books_publist/?loc=subject_009">出版社專區</a></li>
+<li><a href="https://www.books.com.tw/web/sys_sublistb/books/?loc=subject_010">分類總覽</a></li>
+</ul>
+</div></div><div class="header_box6 clearfix">
+<a href="https://activity.books.com.tw/crosscat/show/A00000044711?loc=mood_001"><img alt="開運展" src="https://im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/2021/11/tiger_year_950x40.gif&amp;v=618379d6&amp;w=&amp;h="/></a>
+</div></div></div><ul class="container_24 type04_breadcrumb">
+<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://www.books.com.tw/" itemprop="url"><span itemprop="title">博客來</span></a></li><li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://www.books.com.tw/web/books/" itemprop="url"><span itemprop="title">中文書</span></a></li><li class="last" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><span itemprop="title">分類總覽頁</span></li></ul>
+<div class="container_24 main_wrap clearfix">
+<div class="grid_24 main_column">
+<div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_01/?loc=P_0001_1_001">文學小說</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0101/?loc=P_0001_2_001">翻譯文學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010101/?loc=P_0001_3_001">日本文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010109/?loc=P_0001_3_002">韓國文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010102/?loc=P_0001_3_003">亞洲文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010103/?loc=P_0001_3_004">美國文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010104/?loc=P_0001_3_005">南美文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010105/?loc=P_0001_3_006">英國文學</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010106/?loc=P_0001_3_007">德國文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010107/?loc=P_0001_3_008">法國文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010108/?loc=P_0001_3_009">其他地區</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0102/?loc=P_0001_2_002">華文創作</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010201/?loc=P_0001_3_010">散文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010202/?loc=P_0001_3_011">小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010203/?loc=P_0001_3_012">飲食文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010204/?loc=P_0001_3_013">旅遊文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010205/?loc=P_0001_3_014">自然書寫</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010206/?loc=P_0001_3_015">報導文學</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0103/?loc=P_0001_2_003">詩</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010301/?loc=P_0001_3_016">華文現代詩</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010302/?loc=P_0001_3_017">外國詩</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0104/?loc=P_0001_2_004">文學研究</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010401/?loc=P_0001_3_018">華文文學研究</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010402/?loc=P_0001_3_019">外國文學研究</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010403/?loc=P_0001_3_020">文學史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010404/?loc=P_0001_3_021">作家傳記</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0105/?loc=P_0001_2_005">中國古典文學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010501/?loc=P_0001_3_022">經史子集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010502/?loc=P_0001_3_023">古典小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010503/?loc=P_0001_3_024">古典文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010504/?loc=P_0001_3_025">詩詞曲賦</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0106/?loc=P_0001_2_006">國學常識</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010601/?loc=P_0001_3_026">作文/創作</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010602/?loc=P_0001_3_027">字詞分析</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0107/?loc=P_0001_2_007">世界經典文學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010701/?loc=P_0001_3_028">神話/傳說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010702/?loc=P_0001_3_029">歐美經典文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010703/?loc=P_0001_3_030">日本古典文學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010704/?loc=P_0001_3_031">其他經典文學</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0108/?loc=P_0001_2_008">懸疑/推理小說</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010801/?loc=P_0001_3_032">歐美懸疑/推理小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010802/?loc=P_0001_3_033">日本懸疑/推理小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010803/?loc=P_0001_3_034">華文懸疑/推理小說</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0109/?loc=P_0001_2_009">科幻/奇幻小說</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010901/?loc=P_0001_3_035">歐美科幻/奇幻小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010902/?loc=P_0001_3_036">日本科幻/奇幻小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/010903/?loc=P_0001_3_037">其他科幻/奇幻小說</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0110/?loc=P_0001_2_010">恐怖/驚悚小說</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011001/?loc=P_0001_3_038">歐美恐怖/驚悚小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011002/?loc=P_0001_3_039">日本恐怖/驚悚小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011003/?loc=P_0001_3_040">其他恐怖/驚悚小說</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0111/?loc=P_0001_2_011">溫馨/療癒小說</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0112/?loc=P_0001_2_012">愛情小說</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0113/?loc=P_0001_2_013">同性愛小說</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0114/?loc=P_0001_2_014">羅曼史/言情小說</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011401/?loc=P_0001_3_041">華文羅曼史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011402/?loc=P_0001_3_042">外國羅曼史</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0115/?loc=P_0001_2_015">歷史/武俠小說</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011501/?loc=P_0001_3_043">華文歷史小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011502/?loc=P_0001_3_044">日本歷史小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011503/?loc=P_0001_3_045">外國歷史小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011504/?loc=P_0001_3_046">金庸武俠小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/011505/?loc=P_0001_3_047">其他武俠小說</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0116/?loc=P_0001_2_016">其他文學小說</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_02/?loc=P_0001_1_002">商業理財</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0201/?loc=P_0001_2_017">傳記</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020101/?loc=P_0001_3_048">人物傳記</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020102/?loc=P_0001_3_049">企業傳記</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0202/?loc=P_0001_2_018">管理與領導</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020201/?loc=P_0001_3_050">管理學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020202/?loc=P_0001_3_051">組織／管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020203/?loc=P_0001_3_052">領導／帶人</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020204/?loc=P_0001_3_053">經營策略</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020205/?loc=P_0001_3_054">創業開店</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020206/?loc=P_0001_3_055">各行各業經營</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0203/?loc=P_0001_2_019">專業管理實務</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020301/?loc=P_0001_3_056">專案管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020302/?loc=P_0001_3_057">人力資源管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020303/?loc=P_0001_3_058">財務管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020304/?loc=P_0001_3_059">資訊管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020305/?loc=P_0001_3_060">生產／作業管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020306/?loc=P_0001_3_061">品質管理</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020307/?loc=P_0001_3_062">採購／物流／庫存管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020308/?loc=P_0001_3_063">工業管理</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0204/?loc=P_0001_2_020">職場工作術</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020401/?loc=P_0001_3_064">人際關係</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020402/?loc=P_0001_3_065">工作哲學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020403/?loc=P_0001_3_066">溝通說話</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020404/?loc=P_0001_3_067">時間管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020405/?loc=P_0001_3_068">壓力與健康</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020406/?loc=P_0001_3_069">談判</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020407/?loc=P_0001_3_070">思考邏輯／決斷／創意</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020408/?loc=P_0001_3_071">求職／履歷面試</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020409/?loc=P_0001_3_072">企劃書／商用書信</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020410/?loc=P_0001_3_073">演講／簡報</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0205/?loc=P_0001_2_021">成功法</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020501/?loc=P_0001_3_074">生涯規劃</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020502/?loc=P_0001_3_075">自我成長</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020503/?loc=P_0001_3_076">致富</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0206/?loc=P_0001_2_022">行銷/廣告/業務</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020601/?loc=P_0001_3_077">消費者行為</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020602/?loc=P_0001_3_078">行銷</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020603/?loc=P_0001_3_079">顧客服務</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020604/?loc=P_0001_3_080">廣告</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020605/?loc=P_0001_3_081">公關</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020606/?loc=P_0001_3_082">業務／傳銷</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0207/?loc=P_0001_2_023">電子商務</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020701/?loc=P_0001_3_083">網路行銷／趨勢商機</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020702/?loc=P_0001_3_084">社群經營</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020703/?loc=P_0001_3_085">網路創業開店／SOHO</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0208/?loc=P_0001_2_024">經濟／趨勢</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020801/?loc=P_0001_3_086">經濟學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020802/?loc=P_0001_3_087">大眾／生活經濟學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020803/?loc=P_0001_3_088">全球經濟</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020804/?loc=P_0001_3_089">新興市場</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020805/?loc=P_0001_3_090">兩岸經貿</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020806/?loc=P_0001_3_091">觀念／趨勢</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020807/?loc=P_0001_3_092">經濟／金融小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020808/?loc=P_0001_3_093">金融</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020809/?loc=P_0001_3_094">貨幣</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020810/?loc=P_0001_3_095">國際貿易</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020811/?loc=P_0001_3_096">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0209/?loc=P_0001_2_025">投資理財</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020901/?loc=P_0001_3_097">理財規劃</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020902/?loc=P_0001_3_098">投資學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020903/?loc=P_0001_3_099">股票／證券</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020904/?loc=P_0001_3_100">技術分析</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020905/?loc=P_0001_3_101">債券／基金</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020906/?loc=P_0001_3_102">期貨／選擇權</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020907/?loc=P_0001_3_103">外匯</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020908/?loc=P_0001_3_104">房地產</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020909/?loc=P_0001_3_105">土地</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020910/?loc=P_0001_3_106">原物料／貴金屬</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020911/?loc=P_0001_3_107">保險／節稅</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/020912/?loc=P_0001_3_108">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0210/?loc=P_0001_2_026">會計/統計</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/021001/?loc=P_0001_3_109">會計學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/021002/?loc=P_0001_3_110">成本會計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/021003/?loc=P_0001_3_111">審計學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/021004/?loc=P_0001_3_112">財務報表</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/021005/?loc=P_0001_3_113">統計學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/021006/?loc=P_0001_3_114">統計軟體分析</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0211/?loc=P_0001_2_027">金融證照</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0213/?loc=P_0001_2_028">職場漫畫</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_03/?loc=P_0001_1_003">藝術設計</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0301/?loc=P_0001_2_029">藝術總論</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030101/?loc=P_0001_3_115">藝術史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030102/?loc=P_0001_3_116">藝術家傳記</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030103/?loc=P_0001_3_117">藝術理論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030104/?loc=P_0001_3_118">藝術欣賞</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030105/?loc=P_0001_3_119">博物館/美術館</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0302/?loc=P_0001_2_030">收藏/鑑賞</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030201/?loc=P_0001_3_120">藝術投資</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030202/?loc=P_0001_3_121">寶石/飾品</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030203/?loc=P_0001_3_122">錢幣/郵票</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030204/?loc=P_0001_3_123">瓷器/茶壺</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030205/?loc=P_0001_3_124">古物鑑賞</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030206/?loc=P_0001_3_125">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0303/?loc=P_0001_2_031">繪畫</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030301/?loc=P_0001_3_126">概論/創意練習</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030302/?loc=P_0001_3_127">繪畫史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030303/?loc=P_0001_3_128">繪畫欣賞</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030304/?loc=P_0001_3_129">繪畫方法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030305/?loc=P_0001_3_130">各類繪畫</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030306/?loc=P_0001_3_131">禪繞／曼陀羅／著色</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030308/?loc=P_0001_3_132">畫家傳記/文集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030309/?loc=P_0001_3_133">畫冊/繪畫集</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0304/?loc=P_0001_2_032">書法</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030401/?loc=P_0001_3_134">總論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030402/?loc=P_0001_3_135">書法史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030403/?loc=P_0001_3_136">書法欣賞</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030404/?loc=P_0001_3_137">書法範帖</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030405/?loc=P_0001_3_138">字體/筆法</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0305/?loc=P_0001_2_033">雕塑</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030501/?loc=P_0001_3_139">總論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030502/?loc=P_0001_3_140">篆刻/刻印</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030503/?loc=P_0001_3_141">各式雕塑</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030504/?loc=P_0001_3_142">版畫</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030505/?loc=P_0001_3_143">陶瓷</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030506/?loc=P_0001_3_144">塑像</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0306/?loc=P_0001_2_034">設計</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030601/?loc=P_0001_3_145">設計概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030602/?loc=P_0001_3_146">設計師傳記/文集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030603/?loc=P_0001_3_147">設計方法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030604/?loc=P_0001_3_148">創意美學</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0307/?loc=P_0001_2_035">室內設計</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030701/?loc=P_0001_3_149">總論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030702/?loc=P_0001_3_150">裝潢實務</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030703/?loc=P_0001_3_151">住宅改造</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030704/?loc=P_0001_3_152">空間設計/佈置</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030705/?loc=P_0001_3_153">居家收納</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030706/?loc=P_0001_3_154">參考書</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0308/?loc=P_0001_2_036">建築</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030801/?loc=P_0001_3_155">建築理論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030802/?loc=P_0001_3_156">建築家傳記/文集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030803/?loc=P_0001_3_157">各式建築</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030804/?loc=P_0001_3_158">都市設計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030805/?loc=P_0001_3_159">環境工程</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030806/?loc=P_0001_3_160">參考書</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0309/?loc=P_0001_2_037">攝影</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030901/?loc=P_0001_3_161">攝影理論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030902/?loc=P_0001_3_162">攝影家傳記/文集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030903/?loc=P_0001_3_163">攝影方法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030904/?loc=P_0001_3_164">各類攝影</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030905/?loc=P_0001_3_165">攝影器材</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/030906/?loc=P_0001_3_166">攝影作品集</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0310/?loc=P_0001_2_038">電影</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031001/?loc=P_0001_3_167">電影總論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031002/?loc=P_0001_3_168">電影史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031003/?loc=P_0001_3_169">電影評論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031004/?loc=P_0001_3_170">電影實務</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031005/?loc=P_0001_3_171">導演/電影人</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0311/?loc=P_0001_2_039">音樂</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031101/?loc=P_0001_3_172">音樂總論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031102/?loc=P_0001_3_173">音樂史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031103/?loc=P_0001_3_174">音樂家傳記/文集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031104/?loc=P_0001_3_175">樂曲解說/樂評</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031105/?loc=P_0001_3_176">樂譜</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031106/?loc=P_0001_3_177">樂器學習</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031107/?loc=P_0001_3_178">樂理/音樂與歌唱技巧</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031108/?loc=P_0001_3_179">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0312/?loc=P_0001_2_040">舞蹈</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031201/?loc=P_0001_3_180">舞蹈總論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031202/?loc=P_0001_3_181">舞蹈家傳記/文集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031203/?loc=P_0001_3_182">芭蕾舞</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031204/?loc=P_0001_3_183">現代舞</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031205/?loc=P_0001_3_184">社交舞</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031206/?loc=P_0001_3_185">街舞</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031207/?loc=P_0001_3_186">其他舞蹈</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0313/?loc=P_0001_2_041">戲劇</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031301/?loc=P_0001_3_187">戲劇總論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031302/?loc=P_0001_3_188">戲劇評論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031303/?loc=P_0001_3_189">戲劇家傳記/文集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031304/?loc=P_0001_3_190">劇場實務</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031305/?loc=P_0001_3_191">各類戲劇</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/031306/?loc=P_0001_3_192">編劇方法</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_04/?loc=P_0001_1_004">人文史地</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0401/?loc=P_0001_2_042">概論</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0402/?loc=P_0001_2_043">台灣史地</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040201/?loc=P_0001_3_193">通史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040202/?loc=P_0001_3_194">歷史事件</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040203/?loc=P_0001_3_195">日治時期</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040204/?loc=P_0001_3_196">考古</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040205/?loc=P_0001_3_197">人物史/傳記</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040206/?loc=P_0001_3_198">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0403/?loc=P_0001_2_044">世界史地</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040301/?loc=P_0001_3_199">通史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040302/?loc=P_0001_3_200">斷代史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040303/?loc=P_0001_3_201">文化史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040304/?loc=P_0001_3_202">地區史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040305/?loc=P_0001_3_203">人物史/傳記</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040306/?loc=P_0001_3_204">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0404/?loc=P_0001_2_045">中國史地</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040401/?loc=P_0001_3_205">通史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040402/?loc=P_0001_3_206">朝代史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040403/?loc=P_0001_3_207">文化史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040404/?loc=P_0001_3_208">人物史/傳記</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040405/?loc=P_0001_3_209">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0405/?loc=P_0001_2_046">史料</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0406/?loc=P_0001_2_047">當代思潮</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040601/?loc=P_0001_3_210">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040602/?loc=P_0001_3_211">法國哲學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040603/?loc=P_0001_3_212">德奧哲學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040604/?loc=P_0001_3_213">英美哲學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040605/?loc=P_0001_3_214">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0407/?loc=P_0001_2_048">哲學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040701/?loc=P_0001_3_215">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040702/?loc=P_0001_3_216">哲學史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040703/?loc=P_0001_3_217">西方哲學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040704/?loc=P_0001_3_218">邏輯/思考</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040705/?loc=P_0001_3_219">形上學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040706/?loc=P_0001_3_220">倫理學</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/040707/?loc=P_0001_3_221">中國哲學</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_05/?loc=P_0001_1_005">社會科學</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0501/?loc=P_0001_2_049">總論</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0502/?loc=P_0001_2_050">文化研究</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050201/?loc=P_0001_3_222">民族學/風土民俗</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050202/?loc=P_0001_3_223">文化人類學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050203/?loc=P_0001_3_224">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0503/?loc=P_0001_2_051">社會工作</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0504/?loc=P_0001_2_052">社會議題</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0505/?loc=P_0001_2_053">性別研究</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0506/?loc=P_0001_2_054">報導文學</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0507/?loc=P_0001_2_055">大眾傳播/新聞學</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0508/?loc=P_0001_2_056">網路趨勢</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0509/?loc=P_0001_2_057">政治</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050901/?loc=P_0001_3_225">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050902/?loc=P_0001_3_226">政治制度</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050903/?loc=P_0001_3_227">政治史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050904/?loc=P_0001_3_228">中國研究</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050905/?loc=P_0001_3_229">評論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050906/?loc=P_0001_3_230">政治人物</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/050907/?loc=P_0001_3_231">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0516/?loc=P_0001_2_058">經濟學</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0510/?loc=P_0001_2_059">國際關係</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0511/?loc=P_0001_2_060">法律</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051101/?loc=P_0001_3_232">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051102/?loc=P_0001_3_233">六法全書/法規</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051103/?loc=P_0001_3_234">民法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051104/?loc=P_0001_3_235">刑法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051105/?loc=P_0001_3_236">法律實例/應用</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051106/?loc=P_0001_3_237">各國法律</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0512/?loc=P_0001_2_061">軍事</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051201/?loc=P_0001_3_238">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051202/?loc=P_0001_3_239">武器</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051203/?loc=P_0001_3_240">戰役</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051204/?loc=P_0001_3_241">軍事謀略</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051205/?loc=P_0001_3_242">軍事人物</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051206/?loc=P_0001_3_243">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0513/?loc=P_0001_2_062">心理學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051301/?loc=P_0001_3_244">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051302/?loc=P_0001_3_245">實例</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0514/?loc=P_0001_2_063">教育</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051401/?loc=P_0001_3_246">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051402/?loc=P_0001_3_247">教育史/教育研究</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051403/?loc=P_0001_3_248">教學法/實例</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/051404/?loc=P_0001_3_249">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0515/?loc=P_0001_2_064">閱讀</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_07/?loc=P_0001_1_006">心理勵志</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0708/?loc=P_0001_2_065">快樂學</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0709/?loc=P_0001_2_066">情緒/壓力</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0710/?loc=P_0001_2_067">個人成長</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071001/?loc=P_0001_3_250">心靈成長</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071002/?loc=P_0001_3_251">人生規劃/自我改變</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0703/?loc=P_0001_2_068">勵志故事/散文</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070301/?loc=P_0001_3_252">真實人生故事</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070302/?loc=P_0001_3_253">勵志小品文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070303/?loc=P_0001_3_254">心靈成長故事</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0705/?loc=P_0001_2_069">人格天賦/潛能開發</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0704/?loc=P_0001_2_070">人際關係</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070401/?loc=P_0001_3_255">人脈/處世</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070402/?loc=P_0001_3_256">說話/溝通</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070403/?loc=P_0001_3_257">讀心/識人</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0707/?loc=P_0001_2_071">兩性與家庭關係</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070701/?loc=P_0001_3_258">兩性關係</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070702/?loc=P_0001_3_259">婚姻</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070703/?loc=P_0001_3_260">家庭/親子關係</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070704/?loc=P_0001_3_261">外遇/離婚</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/070705/?loc=P_0001_3_262">其他議題</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0711/?loc=P_0001_2_072">生活哲學</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0712/?loc=P_0001_2_073">熟齡生活</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0713/?loc=P_0001_2_074">生死醫病</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0714/?loc=P_0001_2_075">心理學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071401/?loc=P_0001_3_263">經典學派/大師思想</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071402/?loc=P_0001_3_264">概論/入門</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071403/?loc=P_0001_3_265">行為與決策</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071404/?loc=P_0001_3_266">大腦與神經</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071405/?loc=P_0001_3_267">記憶與學習</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071409/?loc=P_0001_3_268">兒童/青少年心理</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071406/?loc=P_0001_3_269">精神疾病</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071407/?loc=P_0001_3_270">催眠/夢</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/071408/?loc=P_0001_3_271">其他大眾心理學</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0715/?loc=P_0001_2_076">心理諮商/治療</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_12/?loc=P_0001_1_007">宗教命理</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1201/?loc=P_0001_2_077">佛教</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120101/?loc=P_0001_3_272">佛教經典/解說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120102/?loc=P_0001_3_273">心經/金剛經</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120103/?loc=P_0001_3_274">藏傳佛教</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120104/?loc=P_0001_3_275">北傳佛教</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120105/?loc=P_0001_3_276">南傳佛教</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120106/?loc=P_0001_3_277">禪修</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120107/?loc=P_0001_3_278">生活佛法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120108/?loc=P_0001_3_279">佛教儀式/規範</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120109/?loc=P_0001_3_280">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1202/?loc=P_0001_2_078">基督教</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120201/?loc=P_0001_3_281">聖經</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120202/?loc=P_0001_3_282">神學/教義學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120203/?loc=P_0001_3_283">基督教儀式/規範</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120204/?loc=P_0001_3_284">心靈關懷/成長</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120205/?loc=P_0001_3_285">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1203/?loc=P_0001_2_079">天主教</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1204/?loc=P_0001_2_080">其他各教</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1205/?loc=P_0001_2_081">新時代</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120501/?loc=P_0001_3_286">靈性導師/靈訊</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120502/?loc=P_0001_3_287">靈性療癒/成長</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120503/?loc=P_0001_3_288">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1206/?loc=P_0001_2_082">民間信仰</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1207/?loc=P_0001_2_083">靈異/神秘</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1208/?loc=P_0001_2_084">宗教概論</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1209/?loc=P_0001_2_085">命相/命理</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120901/?loc=P_0001_3_289">開運/消災</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120902/?loc=P_0001_3_290">曆書</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120903/?loc=P_0001_3_291">風水</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120904/?loc=P_0001_3_292">術數/陰陽五行</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120905/?loc=P_0001_3_293">紫微斗數</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120906/?loc=P_0001_3_294">八字命學</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120907/?loc=P_0001_3_295">姓名/手面相</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/120908/?loc=P_0001_3_296">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1210/?loc=P_0001_2_086">占星/血型/占卜</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/121001/?loc=P_0001_3_297">占星/血型</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/121002/?loc=P_0001_3_298">占卜/塔羅</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_06/?loc=P_0001_1_008">自然科普</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0601/?loc=P_0001_2_087">科普叢書</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0602/?loc=P_0001_2_088">大腦科學</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0603/?loc=P_0001_2_089">環境科學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060301/?loc=P_0001_3_299">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060302/?loc=P_0001_3_300">氣候變遷</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060303/?loc=P_0001_3_301">環保議題</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060304/?loc=P_0001_3_302">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0604/?loc=P_0001_2_090">數學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060401/?loc=P_0001_3_303">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060402/?loc=P_0001_3_304">數學史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060403/?loc=P_0001_3_305">代數</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060404/?loc=P_0001_3_306">微積分</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060405/?loc=P_0001_3_307">幾何</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060406/?loc=P_0001_3_308">趣味數學</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060407/?loc=P_0001_3_309">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0605/?loc=P_0001_2_091">物理/化學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060501/?loc=P_0001_3_310">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060502/?loc=P_0001_3_311">物理/化學史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060503/?loc=P_0001_3_312">物理/化學理論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060504/?loc=P_0001_3_313">物理/化學應用</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060505/?loc=P_0001_3_314">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0606/?loc=P_0001_2_092">天文學/地球科學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060601/?loc=P_0001_3_315">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060602/?loc=P_0001_3_316">天文/地科史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060603/?loc=P_0001_3_317">天文觀測/氣象</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060604/?loc=P_0001_3_318">太空科學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060605/?loc=P_0001_3_319">地形/地質</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060606/?loc=P_0001_3_320">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0607/?loc=P_0001_2_093">動物/植物</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060701/?loc=P_0001_3_321">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060702/?loc=P_0001_3_322">動/植物學史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060703/?loc=P_0001_3_323">演化/遺傳</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060704/?loc=P_0001_3_324">生態/動物行為</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060705/?loc=P_0001_3_325">生物科技</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060706/?loc=P_0001_3_326">微生物</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060707/?loc=P_0001_3_327">圖鑑</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0608/?loc=P_0001_2_094">應用科學</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060801/?loc=P_0001_3_328">概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060802/?loc=P_0001_3_329">科技史／理論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060803/?loc=P_0001_3_330">核電／能源</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/060804/?loc=P_0001_3_331">其他</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_08/?loc=P_0001_1_009">醫療保健</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0801/?loc=P_0001_2_095">疾病百科</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080101/?loc=P_0001_3_332">常見疾病</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080102/?loc=P_0001_3_333">新陳代謝科</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080103/?loc=P_0001_3_334">胃腸肝膽科</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080104/?loc=P_0001_3_335">血液/腫瘤</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080105/?loc=P_0001_3_336">神經科</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080106/?loc=P_0001_3_337">精神科</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080107/?loc=P_0001_3_338">外科</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080108/?loc=P_0001_3_339">內科</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080109/?loc=P_0001_3_340">其他各科</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0802/?loc=P_0001_2_096">懷孕/小兒</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080201/?loc=P_0001_3_341">產前/產後</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080202/?loc=P_0001_3_342">兒童保健/飲食</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0803/?loc=P_0001_2_097">中醫</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080301/?loc=P_0001_3_343">總論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080302/?loc=P_0001_3_344">疾病診斷</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080303/?loc=P_0001_3_345">中醫療法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080304/?loc=P_0001_3_346">中藥</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080305/?loc=P_0001_3_347">中醫養生</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0804/?loc=P_0001_2_098">養生法</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080401/?loc=P_0001_3_348">養生功法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080402/?loc=P_0001_3_349">氣功/導引</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080403/?loc=P_0001_3_350">民俗療法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080404/?loc=P_0001_3_351">按摩/指壓</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080405/?loc=P_0001_3_352">瑜伽/皮拉提斯/伸展</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080406/?loc=P_0001_3_353">減重</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080407/?loc=P_0001_3_354">其他療法</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0805/?loc=P_0001_2_099">飲食保健</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080501/?loc=P_0001_3_355">食補/藥膳</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080502/?loc=P_0001_3_356">蔬果飲食</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080503/?loc=P_0001_3_357">飲食療法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080504/?loc=P_0001_3_358">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0806/?loc=P_0001_2_100">家庭醫藥保健</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0807/?loc=P_0001_2_101">常識/概論</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080701/?loc=P_0001_3_359">醫療常識</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/080702/?loc=P_0001_3_360">傳記/雜論</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0808/?loc=P_0001_2_102">性愛指南</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_09/?loc=P_0001_1_010">飲食</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0901/?loc=P_0001_2_103">甜點/麵包</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090101/?loc=P_0001_3_361">麵包</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090102/?loc=P_0001_3_362">蛋糕</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090103/?loc=P_0001_3_363">西式點心/甜點</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090104/?loc=P_0001_3_364">中式點心/甜點</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090105/?loc=P_0001_3_365">餅乾</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090106/?loc=P_0001_3_366">巧克力</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090107/?loc=P_0001_3_367">果醬</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0902/?loc=P_0001_2_104">酒</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0903/?loc=P_0001_2_105">咖啡/茶</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090301/?loc=P_0001_3_368">咖啡</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090302/?loc=P_0001_3_369">茶</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0904/?loc=P_0001_2_106">飲品/冰品</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090401/?loc=P_0001_3_370">果汁</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090402/?loc=P_0001_3_371">豆漿</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090403/?loc=P_0001_3_372">冰品</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090404/?loc=P_0001_3_373">其他飲品</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0905/?loc=P_0001_2_107">飲食文化</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090501/?loc=P_0001_3_374">飲食文化/札記</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090502/?loc=P_0001_3_375">名廚/美食家傳記</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0906/?loc=P_0001_2_108">美食名店/指南</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0907/?loc=P_0001_2_109">食譜</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090701/?loc=P_0001_3_376">新手/速簡食譜</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090702/?loc=P_0001_3_377">名廚</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090703/?loc=P_0001_3_378">中式料理/家常菜</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090704/?loc=P_0001_3_379">西式料理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090705/?loc=P_0001_3_380">日式料理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090706/?loc=P_0001_3_381">亞洲/異國料理</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090707/?loc=P_0001_3_382">素食</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090708/?loc=P_0001_3_383">小家電料理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090709/?loc=P_0001_3_384">便當</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090710/?loc=P_0001_3_385">飯/粥</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090711/?loc=P_0001_3_386">麵食</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090712/?loc=P_0001_3_387">海鮮料理</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090713/?loc=P_0001_3_388">肉類料理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090714/?loc=P_0001_3_389">蔬果料理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090715/?loc=P_0001_3_390">小菜/冷盤</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090716/?loc=P_0001_3_391">輕食/沙拉</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090717/?loc=P_0001_3_392">湯</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090718/?loc=P_0001_3_393">宴客料理</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090719/?loc=P_0001_3_394">各式食材</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090720/?loc=P_0001_3_395">醬料製作</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090721/?loc=P_0001_3_396">開店食譜</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090722/?loc=P_0001_3_397">婦幼食譜</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090723/?loc=P_0001_3_398">其他/綜合</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_0908/?loc=P_0001_2_110">料理百科</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090801/?loc=P_0001_3_399">食材/圖鑑</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090802/?loc=P_0001_3_400">分子廚藝</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/090803/?loc=P_0001_3_401">其他料理百科</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_10/?loc=P_0001_1_011">生活風格</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1001/?loc=P_0001_2_111">塑身美妝</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100101/?loc=P_0001_3_402">瘦身美體</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100102/?loc=P_0001_3_403">美容/舒療</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100103/?loc=P_0001_3_404">彩妝/造型/時尚</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100104/?loc=P_0001_3_405">男性造型/健身</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1002/?loc=P_0001_2_112">居家生活</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100201/?loc=P_0001_3_406">清潔/收納/修繕</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100202/?loc=P_0001_3_407">設計/布置</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100203/?loc=P_0001_3_408">花草園藝</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100204/?loc=P_0001_3_409">生活札記</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100205/?loc=P_0001_3_410">婚禮</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1003/?loc=P_0001_2_113">寵物</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100301/?loc=P_0001_3_411">貓</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100302/?loc=P_0001_3_412">狗</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100303/?loc=P_0001_3_413">水族類</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100304/?loc=P_0001_3_414">其他寵物</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1004/?loc=P_0001_2_114">手作</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100401/?loc=P_0001_3_415">縫紉技法入門</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100402/?loc=P_0001_3_416">手作布包/提袋</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100403/?loc=P_0001_3_417">手作服/布作小物</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100404/?loc=P_0001_3_418">造型拼布</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100405/?loc=P_0001_3_419">刺繡/十字繡</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100406/?loc=P_0001_3_420">毛線/勾織</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100407/?loc=P_0001_3_421">不織布/羊毛氈/布娃娃</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100408/?loc=P_0001_3_422">彩繪/橡皮章/拼貼</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100409/?loc=P_0001_3_423">串珠/結繩</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100410/?loc=P_0001_3_424">陶藝/黏土</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100411/?loc=P_0001_3_425">皮革/木作/金屬/玻璃</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100412/?loc=P_0001_3_426">紙藝/卡片/手工書</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100413/?loc=P_0001_3_427">手工皂/蠟燭</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100414/?loc=P_0001_3_428">模型/娃娃屋</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100415/?loc=P_0001_3_429">飾品/禮物包裝</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100416/?loc=P_0001_3_430">文具/手帳</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100417/?loc=P_0001_3_431">雜貨/手作創業</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100418/?loc=P_0001_3_432">其他手作</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1006/?loc=P_0001_2_115">運動/戶外活動</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100601/?loc=P_0001_3_433">球類</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100602/?loc=P_0001_3_434">跑步</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100603/?loc=P_0001_3_435">自行車</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100604/?loc=P_0001_3_436">登山/露營</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100605/?loc=P_0001_3_437">釣魚</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100606/?loc=P_0001_3_438">游泳/水上運動</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100607/?loc=P_0001_3_439">體能訓練</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100608/?loc=P_0001_3_440">武術/拳術</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100609/?loc=P_0001_3_441">其他運動</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1007/?loc=P_0001_2_116">休閒/嗜好</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100701/?loc=P_0001_3_442">棋奕</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100702/?loc=P_0001_3_443">魔術</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100703/?loc=P_0001_3_444">牌藝</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100704/?loc=P_0001_3_445">數獨</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100705/?loc=P_0001_3_446">遊戲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100706/?loc=P_0001_3_447">收藏</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/100707/?loc=P_0001_3_448">其他</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_11/?loc=P_0001_1_012">旅遊</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1101/?loc=P_0001_2_117">台灣</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110101/?loc=P_0001_3_449">台灣旅行</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110102/?loc=P_0001_3_450">北台灣</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110103/?loc=P_0001_3_451">中台灣</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110104/?loc=P_0001_3_452">南台灣</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110105/?loc=P_0001_3_453">東台灣</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110106/?loc=P_0001_3_454">離島</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110107/?loc=P_0001_3_455">地圖</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1111/?loc=P_0001_2_118">日本</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111101/?loc=P_0001_3_456">日本旅遊</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111102/?loc=P_0001_3_457">關東‧東京</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111103/?loc=P_0001_3_458">關西‧京阪神奈</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111104/?loc=P_0001_3_459">北海道</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111105/?loc=P_0001_3_460">四國‧九州</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111106/?loc=P_0001_3_461">沖繩‧石垣島</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111107/?loc=P_0001_3_462">中部‧北陸</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111108/?loc=P_0001_3_463">東北</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111109/?loc=P_0001_3_464">山陰山陽‧廣島</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111110/?loc=P_0001_3_465">主題旅遊</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1112/?loc=P_0001_2_119">韓國</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1102/?loc=P_0001_2_120">中國／香港</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110201/?loc=P_0001_3_466">中國</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110202/?loc=P_0001_3_467">港澳</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110203/?loc=P_0001_3_468">西藏</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110204/?loc=P_0001_3_469">地圖</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1104/?loc=P_0001_2_121">亞洲其他地區</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1105/?loc=P_0001_2_122">美洲</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110501/?loc=P_0001_3_470">加拿大</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110502/?loc=P_0001_3_471">美國</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110503/?loc=P_0001_3_472">中南美</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1106/?loc=P_0001_2_123">歐洲</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110601/?loc=P_0001_3_473">歐洲旅行</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110602/?loc=P_0001_3_474">北歐</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110603/?loc=P_0001_3_475">德國</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110604/?loc=P_0001_3_476">英國／愛爾蘭</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110605/?loc=P_0001_3_477">法國</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110606/?loc=P_0001_3_478">瑞士</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110607/?loc=P_0001_3_479">西班牙</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110608/?loc=P_0001_3_480">捷克</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110609/?loc=P_0001_3_481">奧地利</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110610/?loc=P_0001_3_482">義大利</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110611/?loc=P_0001_3_483">歐洲其他地區</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1107/?loc=P_0001_2_124">非洲/大洋洲</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110701/?loc=P_0001_3_484">非洲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110702/?loc=P_0001_3_485">大洋洲</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1108/?loc=P_0001_2_125">環遊世界</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1109/?loc=P_0001_2_126">地圖</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110901/?loc=P_0001_3_486">台灣</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110902/?loc=P_0001_3_487">亞洲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110903/?loc=P_0001_3_488">美洲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110904/?loc=P_0001_3_489">歐洲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/110905/?loc=P_0001_3_490">非洲／大洋洲</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1110/?loc=P_0001_2_127">主題旅遊</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111001/?loc=P_0001_3_491">美食</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111002/?loc=P_0001_3_492">購物</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111003/?loc=P_0001_3_493">住宿</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111004/?loc=P_0001_3_494">交通</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111005/?loc=P_0001_3_495">留學／遊學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111006/?loc=P_0001_3_496">打工度假</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/111007/?loc=P_0001_3_497">其他</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_14/?loc=P_0001_1_013">童書/青少年文學</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1401/?loc=P_0001_2_128">0-3歲嬰幼兒</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140101/?loc=P_0001_3_498">玩具書</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140102/?loc=P_0001_3_499">啟蒙認知</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140103/?loc=P_0001_3_500">其它寶寶書</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1402/?loc=P_0001_2_129">字卡/練習本</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140201/?loc=P_0001_3_501">注音國字</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140202/?loc=P_0001_3_502">英文拼音</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140203/?loc=P_0001_3_503">數學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140204/?loc=P_0001_3_504">綜合遊戲本</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1403/?loc=P_0001_2_130">遊戲書</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140301/?loc=P_0001_3_505">貼紙書</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140302/?loc=P_0001_3_506">磁鐵書</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140303/?loc=P_0001_3_507">益智遊戲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140304/?loc=P_0001_3_508">其它</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1404/?loc=P_0001_2_131">圖畫書</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140401/?loc=P_0001_3_509">親情/友誼</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140402/?loc=P_0001_3_510">幻想/冒險</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140403/?loc=P_0001_3_511">生活教育</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140404/?loc=P_0001_3_512">自我認同</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140405/?loc=P_0001_3_513">童話/寓言</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140406/?loc=P_0001_3_514">知識繪本</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140407/?loc=P_0001_3_515">生命教育</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140408/?loc=P_0001_3_516">其它</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1415/?loc=P_0001_2_132">橋樑書</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141501/?loc=P_0001_3_517">成長/校園</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141502/?loc=P_0001_3_518">魔法/奇幻/冒險</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141503/?loc=P_0001_3_519">偵探/推理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141508/?loc=P_0001_3_520">童詩/童話/寓言</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1406/?loc=P_0001_2_133">故事/小說</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140601/?loc=P_0001_3_521">科幻/奇幻</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140602/?loc=P_0001_3_522">偵探/冒險</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140603/?loc=P_0001_3_523">成長/校園</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140604/?loc=P_0001_3_524">溫馨勵志</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140605/?loc=P_0001_3_525">名人/歷史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140607/?loc=P_0001_3_526">童話/寓言</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140610/?loc=P_0001_3_527">世界名著</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140611/?loc=P_0001_3_528">中國古典</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140612/?loc=P_0001_3_529">民間故事/神話</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140613/?loc=P_0001_3_530">自然/動物文學</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1408/?loc=P_0001_2_134">科普/百科</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140801/?loc=P_0001_3_531">恐龍</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140802/?loc=P_0001_3_532">昆蟲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140803/?loc=P_0001_3_533">動植物</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140804/?loc=P_0001_3_534">科學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140805/?loc=P_0001_3_535">數學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140806/?loc=P_0001_3_536">百科</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1410/?loc=P_0001_2_135">知識學習漫畫</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141001/?loc=P_0001_3_537">史地</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141002/?loc=P_0001_3_538">數學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141003/?loc=P_0001_3_539">科普</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141004/?loc=P_0001_3_540">其它</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1411/?loc=P_0001_2_136">語言學習</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141101/?loc=P_0001_3_541">中文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141102/?loc=P_0001_3_542">英文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141103/?loc=P_0001_3_543">其他語言</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1407/?loc=P_0001_2_137">史地/傳記</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140701/?loc=P_0001_3_544">名人傳記</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140702/?loc=P_0001_3_545">歷史地理</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1409/?loc=P_0001_2_138">藝術美勞</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140901/?loc=P_0001_3_546">塗鴉本/畫冊</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140902/?loc=P_0001_3_547">DIY勞作</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140903/?loc=P_0001_3_548">藝術</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1405/?loc=P_0001_2_139">兒童文學研究</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/140503/?loc=P_0001_3_549">兒童文學研究</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1414/?loc=P_0001_2_140">分齡推薦</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141401/?loc=P_0001_3_550">幼幼書</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141402/?loc=P_0001_3_551">3-8歲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141403/?loc=P_0001_3_552">6-10歲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141404/?loc=P_0001_3_553">10-12歲</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/141405/?loc=P_0001_3_554">12歲以上</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_24/?loc=P_0001_1_014">國中小參考書</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2401/?loc=P_0001_2_141">學習方法</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2402/?loc=P_0001_2_142">國小一年級</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2403/?loc=P_0001_2_143">國小二年級</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2404/?loc=P_0001_2_144">國小三年級</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2405/?loc=P_0001_2_145">國小四年級</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2406/?loc=P_0001_2_146">國小五年級</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2407/?loc=P_0001_2_147">國小六年級</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2408/?loc=P_0001_2_148">國小輔助教材</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/240801/?loc=P_0001_3_555">語文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/240802/?loc=P_0001_3_556">數學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/240803/?loc=P_0001_3_557">自然科學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/240804/?loc=P_0001_3_558">社會生活</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/240805/?loc=P_0001_3_559">其他科目</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/240806/?loc=P_0001_3_560">智力測驗</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2410/?loc=P_0001_2_149">國中七年級</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2411/?loc=P_0001_2_150">國中八年級</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2413/?loc=P_0001_2_151">國中輔助教材</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/241301/?loc=P_0001_3_561">語文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/241302/?loc=P_0001_3_562">數學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/241303/?loc=P_0001_3_563">社會</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/241304/?loc=P_0001_3_564">自然與生活科技</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/241305/?loc=P_0001_3_565">其他科目</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_13/?loc=P_0001_1_015">親子教養</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1301/?loc=P_0001_2_152">育兒妙招</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1302/?loc=P_0001_2_153">生活教養</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1303/?loc=P_0001_2_154">潛能/學習力啟發</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1304/?loc=P_0001_2_155">教育現場</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/130401/?loc=P_0001_3_566">幼兒教育</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/130402/?loc=P_0001_3_567">十二年國教</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/130403/?loc=P_0001_3_568">人際輔導</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/130404/?loc=P_0001_3_569">特殊教育</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/130405/?loc=P_0001_3_570">他國教育觀</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/130406/?loc=P_0001_3_571">教師隨筆</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1305/?loc=P_0001_2_156">懷孕/小兒</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/130501/?loc=P_0001_3_572">產前/產後</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/130502/?loc=P_0001_3_573">兒童保健/飲食</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_22/?loc=P_0001_1_016">影視偶像</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2201/?loc=P_0001_2_157">影視小說/劇本</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/220101/?loc=P_0001_3_574">影視小說</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/220102/?loc=P_0001_3_575">劇本書</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2202/?loc=P_0001_2_158">影視寫真/導覽/設定集</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2203/?loc=P_0001_2_159">偶像書</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/220301/?loc=P_0001_3_576">臺灣偶像</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/220302/?loc=P_0001_3_577">海外偶像</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2204/?loc=P_0001_2_160">性感寫真</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/220401/?loc=P_0001_3_578">男性寫真</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/220402/?loc=P_0001_3_579">女性寫真</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2205/?loc=P_0001_2_161">生活故事/傳記/創作</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2206/?loc=P_0001_2_162">特裝商品</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_15/?loc=P_0001_1_017">輕小說</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1501/?loc=P_0001_2_163">華文作品</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/150101/?loc=P_0001_3_580">幻奇冒險</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/150102/?loc=P_0001_3_581">驚悚推理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/150103/?loc=P_0001_3_582">戀愛故事</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1502/?loc=P_0001_2_164">翻譯作品</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/150201/?loc=P_0001_3_583">幻奇冒險</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/150202/?loc=P_0001_3_584">驚悚推理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/150203/?loc=P_0001_3_585">戀愛故事</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1503/?loc=P_0001_2_165">BL</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1504/?loc=P_0001_2_166">周邊精品</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_16/?loc=P_0001_1_018">漫畫/圖文書</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1615/?loc=P_0001_2_167">圖文書/繪本</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161501/?loc=P_0001_3_586">華文圖文書/繪本</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161502/?loc=P_0001_3_587">翻譯圖文書/繪本</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1601/?loc=P_0001_2_168">奇幻／魔法</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1602/?loc=P_0001_2_169">科幻／機戰</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1603/?loc=P_0001_2_170">動作冒險</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/160301/?loc=P_0001_3_588">冒險／探險</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/160302/?loc=P_0001_3_589">格鬥／武俠</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1604/?loc=P_0001_2_171">戀愛故事</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/160401/?loc=P_0001_3_590">女性向</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/160402/?loc=P_0001_3_591">男性向</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1605/?loc=P_0001_2_172">懸疑推理</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/160501/?loc=P_0001_3_592">推理／警探</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/160502/?loc=P_0001_3_593">懸疑驚悚</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1606/?loc=P_0001_2_173">靈異／神怪</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1607/?loc=P_0001_2_174">歷史／戰役</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1608/?loc=P_0001_2_175">職場／社會寫實</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/160801/?loc=P_0001_3_594">職場／職人</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/160802/?loc=P_0001_3_595">政治</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/160803/?loc=P_0001_3_596">社會寫實</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1609/?loc=P_0001_2_176">運動／競技</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1610/?loc=P_0001_2_177">其他類型</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161001/?loc=P_0001_3_597">溫馨療癒</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161002/?loc=P_0001_3_598">輕鬆幽默</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161003/?loc=P_0001_3_599">更多</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1611/?loc=P_0001_2_178">歐美漫畫</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1612/?loc=P_0001_2_179">合集／同人誌</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161201/?loc=P_0001_3_600">創作集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161202/?loc=P_0001_3_601">漫畫圖鑑</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161203/?loc=P_0001_3_602">同人誌</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1613/?loc=P_0001_2_180">動漫周邊</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161301/?loc=P_0001_3_603">畫冊／設定集</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161302/?loc=P_0001_3_604">周邊精品</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1614/?loc=P_0001_2_181">BL / GL</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161401/?loc=P_0001_3_605">BL</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/161402/?loc=P_0001_3_606">GL</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_17/?loc=P_0001_1_019">語言學習</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1701/?loc=P_0001_2_182">語言能力檢定測驗</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170101/?loc=P_0001_3_607">NEWTOEIC新多益</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170102/?loc=P_0001_3_608">GEPT全民英檢</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170103/?loc=P_0001_3_609">GRE/GMAT考試</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170104/?loc=P_0001_3_610">TOEFL托福</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170105/?loc=P_0001_3_611">IELTS雅思</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170106/?loc=P_0001_3_612">日語檢定</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170107/?loc=P_0001_3_613">其他語言能力檢定</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170108/?loc=P_0001_3_614">留遊學資訊</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1702/?loc=P_0001_2_183">英語</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170201/?loc=P_0001_3_615">英語學習法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170202/?loc=P_0001_3_616">字辭典</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170203/?loc=P_0001_3_617">發音</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170204/?loc=P_0001_3_618">字彙/片語/俚語</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170205/?loc=P_0001_3_619">文法/句型</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170206/?loc=P_0001_3_620">聽力</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170207/?loc=P_0001_3_621">閱讀</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170208/?loc=P_0001_3_622">故事讀本</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170209/?loc=P_0001_3_623">寫作/翻譯</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170210/?loc=P_0001_3_624">商務書信</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170211/?loc=P_0001_3_625">商務會話</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170212/?loc=P_0001_3_626">旅遊會話</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170213/?loc=P_0001_3_627">生活英語會話</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1703/?loc=P_0001_2_184">日本語</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170301/?loc=P_0001_3_628">日語學習法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170302/?loc=P_0001_3_629">50音</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170303/?loc=P_0001_3_630">字彙</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170304/?loc=P_0001_3_631">文法/句型</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170305/?loc=P_0001_3_632">聽力</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170306/?loc=P_0001_3_633">閱讀/讀本</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170307/?loc=P_0001_3_634">寫作/翻譯</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170308/?loc=P_0001_3_635">旅遊會話</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170309/?loc=P_0001_3_636">其他類型會話</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170310/?loc=P_0001_3_637">日語檢定</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170311/?loc=P_0001_3_638">字辭典</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1704/?loc=P_0001_2_185">韓語</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170401/?loc=P_0001_3_639">40音</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170402/?loc=P_0001_3_640">字彙</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170403/?loc=P_0001_3_641">韓語會話</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170404/?loc=P_0001_3_642">韓語學習</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170405/?loc=P_0001_3_643">韓檢TOPIK</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1705/?loc=P_0001_2_186">外語學習</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170501/?loc=P_0001_3_644">法語</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170502/?loc=P_0001_3_645">德語</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170503/?loc=P_0001_3_646">西班牙</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170504/?loc=P_0001_3_647">泰語</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170505/?loc=P_0001_3_648">越南/印尼</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170506/?loc=P_0001_3_649">多國語</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170507/?loc=P_0001_3_650">各地外語</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170508/?loc=P_0001_3_651">外語學習法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170509/?loc=P_0001_3_652">其他外語字辭典</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1706/?loc=P_0001_2_187">中文/方言</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170601/?loc=P_0001_3_653">寫作/作文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170602/?loc=P_0001_3_654">華語學習</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170603/?loc=P_0001_3_655">台語</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170604/?loc=P_0001_3_656">客語</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170605/?loc=P_0001_3_657">廣東話/粵語</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170606/?loc=P_0001_3_658">兩岸用語/繁簡對照</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170607/?loc=P_0001_3_659">各地方言</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/170608/?loc=P_0001_3_660">中文字辭典</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_18/?loc=P_0001_1_020">考試用書</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1801/?loc=P_0001_2_188">學習/考試法</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1803/?loc=P_0001_2_189">升大學/插大</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180301/?loc=P_0001_3_661">國文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180302/?loc=P_0001_3_662">作文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180303/?loc=P_0001_3_663">英文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180304/?loc=P_0001_3_664">數學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180305/?loc=P_0001_3_665">社會</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180306/?loc=P_0001_3_666">自然</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180307/?loc=P_0001_3_667">其它科目</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1804/?loc=P_0001_2_190">升科大四技</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180401/?loc=P_0001_3_668">共同科目</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180402/?loc=P_0001_3_669">語言/商管</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180403/?loc=P_0001_3_670">家政/餐旅</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180404/?loc=P_0001_3_671">電子/電機</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180405/?loc=P_0001_3_672">資訊</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180406/?loc=P_0001_3_673">建築土木設計</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180407/?loc=P_0001_3_674">化工</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180408/?loc=P_0001_3_675">農業</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180409/?loc=P_0001_3_676">醫護</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180410/?loc=P_0001_3_677">其它科目</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1802/?loc=P_0001_2_191">研究所考試</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180201/?loc=P_0001_3_678">共同科目</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180202/?loc=P_0001_3_679">商管/EMBA</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180203/?loc=P_0001_3_680">法政/教育</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180204/?loc=P_0001_3_681">理工/資訊</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180205/?loc=P_0001_3_682">其他科目</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1807/?loc=P_0001_2_192">公務人員考試</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180701/?loc=P_0001_3_683">共同科目</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180702/?loc=P_0001_3_684">初考</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180703/?loc=P_0001_3_685">高普考</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180704/?loc=P_0001_3_686">司法特考</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180705/?loc=P_0001_3_687">鐵路特考</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180706/?loc=P_0001_3_688">社福特考</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180707/?loc=P_0001_3_689">港務/海巡/民航</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180708/?loc=P_0001_3_690">稅務/關務</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180709/?loc=P_0001_3_691">調查局/國安局</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180710/?loc=P_0001_3_692">移民/外交</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180711/?loc=P_0001_3_693">其它特種考試</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1808/?loc=P_0001_2_193">就業考試</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180801/?loc=P_0001_3_694">銀行考試</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180802/?loc=P_0001_3_695">農會/水利會</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180803/?loc=P_0001_3_696">捷運公司</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180804/?loc=P_0001_3_697">郵局考試</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180805/?loc=P_0001_3_698">中華電信</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180806/?loc=P_0001_3_699">國營事業</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180807/?loc=P_0001_3_700">其它就業考試</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1809/?loc=P_0001_2_194">專技人員考試</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180901/?loc=P_0001_3_701">領隊導遊</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180902/?loc=P_0001_3_702">律師/專利師</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180903/?loc=P_0001_3_703">會計師/記帳士</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180904/?loc=P_0001_3_704">建築師/土木技師</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180905/?loc=P_0001_3_705">不動產經紀人/地政士</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180906/?loc=P_0001_3_706">消防設備人員</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180907/?loc=P_0001_3_707">保險/報關人員</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180908/?loc=P_0001_3_708">營養師/食品技師</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180909/?loc=P_0001_3_709">藥師/醫檢師</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180910/?loc=P_0001_3_710">社工師/心理師</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180911/?loc=P_0001_3_711">醫師/護理師</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/180912/?loc=P_0001_3_712">其它專技考試</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1810/?loc=P_0001_2_195">職訓檢定</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181001/?loc=P_0001_3_713">商業類</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181002/?loc=P_0001_3_714">電腦資訊類</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181003/?loc=P_0001_3_715">電子機械類</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181004/?loc=P_0001_3_716">建築土木設計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181005/?loc=P_0001_3_717">化工</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181006/?loc=P_0001_3_718">家政類</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181007/?loc=P_0001_3_719">餐飲類</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181008/?loc=P_0001_3_720">其它職訓檢定</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1811/?loc=P_0001_2_196">金融證照</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181101/?loc=P_0001_3_721">共同科目</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181102/?loc=P_0001_3_722">信託業務</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181103/?loc=P_0001_3_723">內控/風管</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181104/?loc=P_0001_3_724">理財規劃</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181105/?loc=P_0001_3_725">授信/外匯</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181106/?loc=P_0001_3_726">期貨/證券</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181107/?loc=P_0001_3_727">債券/票券</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181108/?loc=P_0001_3_728">其它</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1812/?loc=P_0001_2_197">師資甄試/檢定</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1813/?loc=P_0001_2_198">軍警考試</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181301/?loc=P_0001_3_729">警察特考</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181302/?loc=P_0001_3_730">警專/警大</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181303/?loc=P_0001_3_731">軍士官/預官</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1814/?loc=P_0001_2_199">函授教材</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181401/?loc=P_0001_3_732">初考</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181402/?loc=P_0001_3_733">高普考</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181403/?loc=P_0001_3_734">特種考試</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181404/?loc=P_0001_3_735">導遊領隊</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181405/?loc=P_0001_3_736">金融證照</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181406/?loc=P_0001_3_737">銀行考試</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181407/?loc=P_0001_3_738">國營事業</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181409/?loc=P_0001_3_739">研究所</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181410/?loc=P_0001_3_740">升大學/四技</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/181411/?loc=P_0001_3_741">其它</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_19/?loc=P_0001_1_021">電腦資訊</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1901/?loc=P_0001_2_200">概論/科技趨勢</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190101/?loc=P_0001_3_742">計算機概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190102/?loc=P_0001_3_743">人工智慧/機器學習</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190103/?loc=P_0001_3_744">金融科技</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1902/?loc=P_0001_2_201">電腦硬體/創客</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190202/?loc=P_0001_3_745">選購/組裝/維護</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190203/?loc=P_0001_3_746">電子裝置/創客/機器人設計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190204/?loc=P_0001_3_747">其他電腦硬體相關</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1903/?loc=P_0001_2_202">作業系統</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190301/?loc=P_0001_3_748">Windows</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190302/?loc=P_0001_3_749">Linux</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190304/?loc=P_0001_3_750">macOS</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190303/?loc=P_0001_3_751">其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1904/?loc=P_0001_2_203">資料庫/大數據</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190401/?loc=P_0001_3_752">Oracle</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190402/?loc=P_0001_3_753">SQL Server</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190403/?loc=P_0001_3_754">Access</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190405/?loc=P_0001_3_755">MySQL</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190406/?loc=P_0001_3_756">NoSQL</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190407/?loc=P_0001_3_757">資料處理/大數據</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190404/?loc=P_0001_3_758">其他資料庫相關</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1905/?loc=P_0001_2_204">程式設計/APP開發</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190501/?loc=P_0001_3_759">C/C++</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190505/?loc=P_0001_3_760">C#</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190502/?loc=P_0001_3_761">Swift/Objective-C</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190503/?loc=P_0001_3_762">Java</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190504/?loc=P_0001_3_763">Python</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190506/?loc=P_0001_3_764">VisualBasic</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190508/?loc=P_0001_3_765">程式邏輯/演算法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190507/?loc=P_0001_3_766">手機/平板APP開發</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190509/?loc=P_0001_3_767">軟體工程/遊戲開發</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190510/?loc=P_0001_3_768">其他程式設計相關</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1906/?loc=P_0001_2_205">網頁開發設計</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190601/?loc=P_0001_3_769">JavaScript/jQuery</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190602/?loc=P_0001_3_770">HTML/CSS</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190604/?loc=P_0001_3_771">PHP</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190607/?loc=P_0001_3_772">ASP.NET</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190603/?loc=P_0001_3_773">Dreamwaver</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190605/?loc=P_0001_3_774">UI/UX</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190606/?loc=P_0001_3_775">其他網頁設計相關</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1907/?loc=P_0001_2_206">網路/架站</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190701/?loc=P_0001_3_776">網路概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190702/?loc=P_0001_3_777">資訊安全/駭客/防毒</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190703/?loc=P_0001_3_778">網路/數據通信</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190705/?loc=P_0001_3_779">架站技術</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190706/?loc=P_0001_3_780">雲端技術</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190707/?loc=P_0001_3_781">其他網路技術</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1908/?loc=P_0001_2_207">影音多媒體</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190801/?loc=P_0001_3_782">多媒體概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190806/?loc=P_0001_3_783">Flash</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190802/?loc=P_0001_3_784">AfterEffects/Premiere</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190803/?loc=P_0001_3_785">會聲會影</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190804/?loc=P_0001_3_786">其他影音剪輯</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190805/?loc=P_0001_3_787">其他多媒體</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1909/?loc=P_0001_2_208">影像編修繪圖</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190901/?loc=P_0001_3_788">Photoshop</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190902/?loc=P_0001_3_789">Illustrator</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190903/?loc=P_0001_3_790">CG電繪/Painter</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190904/?loc=P_0001_3_791">InDesign/PDF/數位排版</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190905/?loc=P_0001_3_792">圖庫</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/190906/?loc=P_0001_3_793">各類繪圖軟體</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1910/?loc=P_0001_2_209">工程/3D繪圖</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191001/?loc=P_0001_3_794">AutoCAD/Inventor/Revit</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191002/?loc=P_0001_3_795">SketchUp</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191003/?loc=P_0001_3_796">3DMAX</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191004/?loc=P_0001_3_797">Maya3D</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191005/?loc=P_0001_3_798">Pro/Engineer</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191006/?loc=P_0001_3_799">SolidWorks</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191007/?loc=P_0001_3_800">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1911/?loc=P_0001_2_210">Apple</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191101/?loc=P_0001_3_801">MAC</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191102/?loc=P_0001_3_802">i系列</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191103/?loc=P_0001_3_803">程式開發設計</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1912/?loc=P_0001_2_211">數位生活</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191201/?loc=P_0001_3_804">手機平板選購</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191202/?loc=P_0001_3_805">社群/即時通訊</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191203/?loc=P_0001_3_806">App生活應用</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191204/?loc=P_0001_3_807">電玩遊戲攻略</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191205/?loc=P_0001_3_808">數位/雲端工具</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191206/?loc=P_0001_3_809">其他</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1913/?loc=P_0001_2_212">辦公軟體應用</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191301/?loc=P_0001_3_810">Word</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191302/?loc=P_0001_3_811">Excel</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191303/?loc=P_0001_3_812">簡報軟體應用</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191304/?loc=P_0001_3_813">專案管理應用</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191306/?loc=P_0001_3_814">輸入法</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191307/?loc=P_0001_3_815">Office應用與其他</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_1914/?loc=P_0001_2_213">認證檢定</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191401/?loc=P_0001_3_816">MOS/MCAS國際認證</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191402/?loc=P_0001_3_817">TQC認證</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191403/?loc=P_0001_3_818">乙丙級技術士認證</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/191404/?loc=P_0001_3_819">其他認證檢定</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div><div class="type02_s004 clearfix">
+<div class="mod_no clearfix">
+<h4><a href="https://www.books.com.tw/web/books_topm_20/?loc=P_0001_1_022">專業/教科書/政府出版品</a></h4>
+<table>
+<colgroup>
+<col width=""/>
+<col width=""/>
+</colgroup><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2001/?loc=P_0001_2_214">論文寫作</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2002/?loc=P_0001_2_215">文史哲類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200201/?loc=P_0001_3_820">中文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200202/?loc=P_0001_3_821">台文</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200203/?loc=P_0001_3_822">歷史</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200204/?loc=P_0001_3_823">哲學</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2003/?loc=P_0001_2_216">外國語文類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200301/?loc=P_0001_3_824">語言學概論</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200302/?loc=P_0001_3_825">翻譯</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200303/?loc=P_0001_3_826">英語</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200304/?loc=P_0001_3_827">第二外語</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2004/?loc=P_0001_2_217">財經類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200401/?loc=P_0001_3_828">財務金融</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200402/?loc=P_0001_3_829">經濟</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200403/?loc=P_0001_3_830">統計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200404/?loc=P_0001_3_831">會計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200405/?loc=P_0001_3_832">保險</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2005/?loc=P_0001_2_218">管理類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200501/?loc=P_0001_3_833">企業管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200502/?loc=P_0001_3_834">行銷</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200503/?loc=P_0001_3_835">國際貿易</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2006/?loc=P_0001_2_219">法政類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200601/?loc=P_0001_3_836">法律</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200602/?loc=P_0001_3_837">政治</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200603/?loc=P_0001_3_838">外交</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200604/?loc=P_0001_3_839">行政</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2007/?loc=P_0001_2_220">社會與心理類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200701/?loc=P_0001_3_840">社會與社工</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200702/?loc=P_0001_3_841">心理</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2008/?loc=P_0001_2_221">大眾傳播類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200801/?loc=P_0001_3_842">大眾傳播</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200802/?loc=P_0001_3_843">新聞</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200803/?loc=P_0001_3_844">廣電影視</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200804/?loc=P_0001_3_845">公關廣告</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2009/?loc=P_0001_2_222">教育類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200901/?loc=P_0001_3_846">教育</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200902/?loc=P_0001_3_847">特殊教育</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/200903/?loc=P_0001_3_848">幼兒教育</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2010/?loc=P_0001_2_223">藝術類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201001/?loc=P_0001_3_849">戲劇</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201002/?loc=P_0001_3_850">音樂</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201003/?loc=P_0001_3_851">美術</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201004/?loc=P_0001_3_852">舞蹈</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2011/?loc=P_0001_2_224">電機資訊類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201101/?loc=P_0001_3_853">電子</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201102/?loc=P_0001_3_854">電機</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201103/?loc=P_0001_3_855">光電</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201104/?loc=P_0001_3_856">資訊</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201105/?loc=P_0001_3_857">電信/通訊</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2012/?loc=P_0001_2_225">工程類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201201/?loc=P_0001_3_858">機械工程</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201202/?loc=P_0001_3_859">材料工程</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201203/?loc=P_0001_3_860">化學工程</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201204/?loc=P_0001_3_861">土木工程</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201205/?loc=P_0001_3_862">工業工程與運輸管理</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2013/?loc=P_0001_2_226">建築與設計類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201301/?loc=P_0001_3_863">建築設計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201302/?loc=P_0001_3_864">室內設計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201303/?loc=P_0001_3_865">商業設計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201304/?loc=P_0001_3_866">工業/產品設計</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201305/?loc=P_0001_3_867">服裝設計</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2014/?loc=P_0001_2_227">數理化類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201401/?loc=P_0001_3_868">數學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201402/?loc=P_0001_3_869">物理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201403/?loc=P_0001_3_870">化學</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2015/?loc=P_0001_2_228">生命科學類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201501/?loc=P_0001_3_871">生物學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201502/?loc=P_0001_3_872">微生物學</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201503/?loc=P_0001_3_873">遺傳學</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2016/?loc=P_0001_2_229">生物資源類</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2017/?loc=P_0001_2_230">地球與環境科學類</a></h5>
+</th>
+<td>
+<ul></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2018/?loc=P_0001_2_231">休閒餐旅類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201801/?loc=P_0001_3_874">餐旅管理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201802/?loc=P_0001_3_875">觀光休閒</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201803/?loc=P_0001_3_876">運動管理</a></li></ul>
+</td>
+</tr><tr>
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2019/?loc=P_0001_2_232">醫藥衛生類</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201901/?loc=P_0001_3_877">醫藥</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201902/?loc=P_0001_3_878">護理</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/201903/?loc=P_0001_3_879">公共衛生</a></li></ul>
+</td>
+</tr><tr class="set_color">
+<th>
+<h5><a href="https://www.books.com.tw/web/books_bmidm_2020/?loc=P_0001_2_233">政府出版品</a></h5>
+</th>
+<td>
+<ul><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202001/?loc=P_0001_3_880">國際/國防/外交</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202002/?loc=P_0001_3_881">經濟金融</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202003/?loc=P_0001_3_882">社福醫療</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202004/?loc=P_0001_3_883">博物館</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202005/?loc=P_0001_3_884">教育學習</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202006/?loc=P_0001_3_885">台灣采風</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202007/?loc=P_0001_3_886">客家文化</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202008/?loc=P_0001_3_887">原住民文化</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202009/?loc=P_0001_3_888">自然生態</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202010/?loc=P_0001_3_889">縣市采風</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202011/?loc=P_0001_3_890">文化/藝術</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202012/?loc=P_0001_3_891">法律/司法</a></li><li class="hr"></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202013/?loc=P_0001_3_892">科技發展</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202014/?loc=P_0001_3_893">交通/公共工程</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202015/?loc=P_0001_3_894">影音產品</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202016/?loc=P_0001_3_895">期刊/公報</a></li><li><a href="https://www.books.com.tw/web/sys_bbotm/books/202017/?loc=P_0001_3_896">年月曆/周邊</a></li></ul>
+</td>
+</tr></table>
+</div><div class="hr_shadow clearfix"><b class="bl"></b></div>
+</div></div>
+</div><div class="container_24 type04_footer clearfix"><div class="grid_24 wrap clearfix">
+<div class="box_1 clearfix"><div class="item clearfix">
+<h4>關於我們</h4><ul>
+<li><a href="https://www.books.com.tw/isi/aboutbooks.htm?loc=footer_01_001">關於博客來</a></li>
+<li><a href="https://www.7-11.com.tw/pcsc/Index.html">關於PCSC</a></li>
+<li><a href="https://www.books.com.tw/services/privacy.htm?loc=footer_01_002">隱私權政策</a></li>
+<li><a href="https://www.books.com.tw/data/qanda/servicepolicy.htm?loc=footer_01_003">服務條款</a></li>
+<li><a href="https://www.104.com.tw/jobbank/custjob/index.php?r=cust&amp;j=4c4a436e3c5c3e2548423c1d1d1d1d5f2443a363189j99&amp;jobsource=n104bank1">人才募集</a></li>
+<li><a href="https://www.books.com.tw/stakeholder/index?loc=footer_01_004">利害關係人專區</a></li>
+</ul>
+</div><div class="item clearfix">
+<h4>會員服務</h4>
+<ul><li><a href="javascript:void(0);" onclick="location.href='https://cart.books.com.tw/member/join_step1/?loc=footer_02_001&amp;url=' + encodeURIComponent(window.location.href);">加入會員</a></li>
+<li><a href="https://www.books.com.tw/activity/guide/?loc=footer_02_002">新手上路</a></li>
+<li><a href="https://www.books.com.tw/activity/vip/?loc=footer_02_003">會員分級</a></li>
+<li><a href="https://www.books.com.tw/e-page/?loc=footer_02_004">訂閱電子報</a></li>
+<li><a href="https://www.books.com.tw/activity/24hr/24hr.htm?loc=footer_02_005">24小時隔日取貨</a></li>
+<li><a href="https://www.books.com.tw/mobile/?loc=footer_02_006">行動博客來</a></li>
+<li class="icon_mobile"><a href="javascript:void(0)" onclick="document.cookie='booksstyle=M;path=/;domain=books.com.tw;';if(typeof dataLayer !='undefined'){dataLayer.push({'event':'SendEvent', 'eventCategory':'change', 'eventAction':'dtm', 'eventLabel': 'www', 'eventValue':'1', 'eventNonInteraction':0});}if(encodeURI(window.location.pathname).substring(0,10) == '/products/' || encodeURI(window.location.pathname).indexOf('/ovs') !== -1 || encodeURI(window.location.pathname).indexOf('/sys_ovsbotm') !== -1 || encodeURI(window.location.pathname).indexOf('/sys_saletopovs') !== -1
+){location.href='//www.books.com.tw/exep/assp.php/bookland' + encodeURI(window.location.pathname+window.location.search) + '?loc=footer_02_007';}else{location.href='//www.books.com.tw/exep/assp.php/bookland?loc=footer_02_007';}">切換行動版</a></li></ul>
+</div><div class="item clearfix">
+<h4>合作提案</h4>
+<ul><li><a href="https://group.books.com.tw/?loc=footer_03_001">企業採購</a></li>
+<li><a href="https://www.books.com.tw/benefit/?loc=footer_03_002">福利平台</a></li>
+<li><a href="https://www.books.com.tw/exep/supplier/addsupplier.php?loc=footer_03_003">加入供應商</a></li>
+<li><a href="https://ap.books.com.tw/?loc=footer_03_004">AP策略聯盟</a></li>
+<li><a href="https://www.books.com.tw/marketing/ad.htm?loc=footer_03_005">異業合作</a></li></ul>
+</div><div class="item clearfix">
+<h4>客服中心</h4>
+<ul><li><a href="https://cart.books.com.tw/member/forgot/?loc=footer_04_001">查詢帳號密碼</a></li>
+<li><a href="https://www.books.com.tw/question/inquiry/?loc=footer_04_002">客服信箱</a></li>
+<li><a href="https://www.books.com.tw/web/qa/?loc=footer_04_004">客服中心Q&amp;A</a></li>
+<li class="icon_service"><a href="https://www.books.com.tw/web/csservice?loc=footer_04_005">線上客服</a></li></ul>
+</div><div class="item clearfix">
+<h4>好站連結</h4>
+<ul><li><a href="https://okapi.books.com.tw/index.php/?loc=footer_05_001">OKAPI 閱讀生活誌</a></li>
+<li><a href="https://youth.books.com.tw/?loc=footer_05_002">青春博客來</a></li>
+<li><a href="https://tickets.books.com.tw/index/?loc=footer_05_003">售票網</a></li>
+<li><a href="https://www.youtube.com/user/BooksTW">博客來Youtube</a></li>
+<li class="icon_facebook"><a href="https://www.facebook.com/bookstw">博客來粉絲團</a></li></ul>
+</div><div class="payment_trust clearfix">
+<h4>得獎認證</h4>
+<ul><li class="logo_7"><span title="天下雜誌2017金牌服務大賞">天下雜誌2017金牌服務大賞</span></li>
+<li class="logo_8"><span title="2016新世代最嚮往企業">2016新世代最嚮往企業</span></li>
+<li class="logo_1"><span title="SSL憑證服務">SSL憑證服務</span></li>
+<li class="logo_2"><span title="數位時代2012年台灣網站100強">數位時代2012年台灣網站100強</span></li>
+<li class="logo_3"><span title="電子發票推廣標章">電子發票推廣標章</span></li>
+<li class="logo_6"><span title="dpmark資料隱私保護標章">dpmark資料隱私保護標章</span></li>
+<li class="logo_5"><span title="數位時代2011台灣電子商務TOP50強">數位時代2011台灣電子商務TOP50強</span></li>
+<li class="logo_9"><span title="行政院環保署B2C網購包裝減量標章。包裝減量。環保材質。循環包材。">行政院環保署B2C網購包裝減量標章。包裝減量。環保材質。循環包材。</span></li>
+</ul>
+</div></div><div class="box_2 clearfix">
+<ul class="service_message"><li><p><span>客戶服務專線：02-26535588</span><span>傳真：02-27885008</span><span>服務時間：週一~五 8:00~19:00，週六~日、例假日 9:00~18:00，365天全年無休</span></p></li>
+<li><p><span>博客來數位科技股份有限公司</span><span>地址：臺灣 115 台北市南港區八德路四段768巷1弄18號B1之1  食品業者登錄字號：A-196922355-00000-9</span></p></li>
+<li><p>Copyright © since 1995 books.com.tw All Rights Reserved.</p></li></ul>
+</div></div></div></body>
+</html>
