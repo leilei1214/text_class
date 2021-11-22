@@ -1,0 +1,1 @@
+['最成熟文件資料庫：MongoDB實作整合最佳化微服務架構', '7天學會大數據資料處理—NoSQL：MongoDB入門與活用(第四版)', 'NoSQL開發完美方案：Redis+Docker高性能虛擬化實戰', 'MongoDB技術手冊第三版', '入手大數據DB的輕鬆選擇：HBase快上手(熱銷版)', '7天學會大數據資料處理—NoSQL(第三版)：MongoDB入門與活用', '入手大數據DB的輕鬆選擇：HBase快上手', '高效經營 Big Data：MongoDB資料庫系統管理與開發手札', 'Cassandra技術手冊第二版', '7天學會大數據資料處理—NoSQL：MongoDB入門與活用(第二版)']

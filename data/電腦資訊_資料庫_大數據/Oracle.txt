@@ -1,0 +1,1 @@
+['Oracle資料庫SQL學習經典-融入OCA DBA國際認證', 'Oracle實戰寶典：故障排除與效能提升(下)(第二版)', 'Oracle實戰寶典：故障排除與效能提升(上)(第二版)', 'Oracle PL/SQL程式設計(暢銷回饋版)', 'Oracle PL/SQL程式設計', 'Oracle資料庫和Visual Basic程式開發指南']

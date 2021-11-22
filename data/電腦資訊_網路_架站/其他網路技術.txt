@@ -1,0 +1,1 @@
+['網站可靠性工程工作手冊|導入SRE的實用方法', '網路代理人理論與實務設計寶典', 'PowerBuilder 應用程式設計寶典', 'IXP425 網路處理器設計寶典', 'Practical Network Automation中文版：使用Python、Powershell、Ansible實踐網路自動化', '百億造訪還能正常運作：全球最大購物網站技術公開', '從Paxos到Zookeeper：分散式一致性原理與實例', '網站可靠性工程：Google的系統管理之道', '撐起14億人電商的技術機密：用Paxos及ZooKeeper打造分散叢集', 'PowerBuilder 12 共好 .NET(附DVD一片)', 'PowerBuilder 12 共好 .NET (附試用版)']
